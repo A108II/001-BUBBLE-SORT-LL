@@ -1,4 +1,3 @@
-```markdown
 ## Bubble Sort of Linked List
 
 ### Instructions
@@ -23,4 +22,3 @@ The Bubble Sort algorithm works by comparing each pair of adjacent elements in t
 7. **Update Marker**: At the end of each pass through the list, set `sortedUntil` to the last node that was examined. This marks the end of the sorted portion of the list and the start of the unsorted portion for the next pass.
 
 8. **Repeat**: The algorithm continues until the list is fully sorted.
-```
